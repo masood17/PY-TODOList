@@ -1,6 +1,9 @@
 "Git and Agile Project" 
 
 
-Team Members and Roles
+Team Members and Roles:
 
-Mas-ood - Frontend Dev
+Mas-ood - Scrum master and developer
+Tashiv  - Tester and developer
+
+Agile Summary:
