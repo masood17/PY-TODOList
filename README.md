@@ -22,5 +22,5 @@ US 2: View Task List |	Implement the front-end list component and fetch tasks fr
 US 3: Mark Task as Complete	| Implement a button/checkbox to update a task's status and apply a visual change (e.g., strikethrough).	Tashiv
 US 4: Delete a Task	| Implement a delete button for each task and the necessary back-end logic to remove it permanently.	Tashiv (as developer)
 
-![Alt text for screenshot](public\Mas-ood Git CLI.png)
-![Alt text for screenshot](public\Tashiv Git CLI.png)
+![Alt text for screenshot](public/Mas-ood%20Git%20CLI.pngMas-ood Git CLI.png)
+![Alt text for screenshot](public/Tashiv%20Git%20CLI.pngTashiv Git CLI.png)
