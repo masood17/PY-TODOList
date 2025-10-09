@@ -24,3 +24,5 @@ US 4: Delete a Task	| Implement a delete button for each task and the necessary 
 
 ![Alt text for screenshot](public/Mas-ood%20Git%20CLI.png)
 ![Alt text for screenshot](public/Tashiv%20Git%20CLI.png)
+
+![alt text](<public/Mas-ood Git CLI.png>)
